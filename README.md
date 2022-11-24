@@ -23,6 +23,7 @@ I am Aakash Shivanshu and currently persuing my B.Tech. course in Computer Scien
 ## 🌱 I’m currently learning
 * NodeJs & ReactJs for full stack
 * Advance Flutter for optimization
+* Improving DSA skills on [LeetCode](https://leetcode.com/Aakash_301/)
 
 ## Github Stats
 
