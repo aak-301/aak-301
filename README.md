@@ -1,7 +1,7 @@
 <h1 align="center" style="display: inline-block;">Hi 👋, I'm Aakash Shivanshu</h1>
 
 
-I am a enthusiastic fresher with high motivation. Currently persuing my B.Tech. in Computer Science and Engineering. Eager to learn new tech stacks. I am a SDE Intern at [Go Influencer](https://www.goinfluencer.io/). And currently working on [Flutter](https://flutter.dev/). My other interests aside from Flutter are Full Stack Development (ReactJs for front-end).
+An enthusiastic fresher with high motivation. Currently persuing my B.Tech. in Computer Science and Engineering. Eager to learn new tech stacks. I am a SDE Intern at [Go Influencer](https://www.goinfluencer.io/). And currently working on [Flutter](https://flutter.dev/). My other interests aside from Flutter are Full Stack Development (ReactJs for front-end).
 
 <table>
   <tr>
