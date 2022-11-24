@@ -18,8 +18,8 @@ An enthusiastic fresher with high motivation. Currently persuing my B.Tech. in C
 
 ## 🔭 I’m currently working on
 * Building a full stack application (NodeJs & React)
-- Using Sir Kepler's [Kepler and K2]Research(https://www.nasa.gov/mission_pages/kepler/launch/index.html)
-- Using NASA's [Exoplanets-Data](https://exoplanetarchive.ipac.caltech.edu/docs/data.html) for exploration. The [KOI-table](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
+* Using Sir Kepler's [Kepler-and-K2-Research](https://www.nasa.gov/mission_pages/kepler/launch/index.html)
+    - Using NASA's [Exoplanets-Data](https://exoplanetarchive.ipac.caltech.edu/docs/data.html) for exploration. The [KOI-table](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
 
 ## 🌱 I’m currently learning
 * NodeJs & ReactJs for full stack
