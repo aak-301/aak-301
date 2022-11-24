@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom: none">Hi 👋, I'm Aakash Shivanshu</h1>
+<h1 align="center" style="display: inline-block;">Hi 👋, I'm Aakash Shivanshu</h1>
 <h2 align="center">SDE Intern @Go Influencer</h2>
 
 
