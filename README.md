@@ -1,5 +1,4 @@
-<h1 align="center" style="display: inline-block;">Hi 👋, I'm Aakash Shivanshu</h1>
-<h2 align="center">SDE Intern @Go Influencer</h2>
+<h1 align="center" style="display: inline-block;">Hi 👋, I'm Aakash Shivanshu <br>SDE Intern @Go Influencer</h1>
 
 
 I am Aakash Shivanshu and currently persuing my B.Tech. course in Computer Science from KIIT. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am a SDE Intern at [Go Influencer](https://www.goinfluencer.io/). And currently working on [Flutter](https://flutter.dev/). My other interests aside from Flutter are Full Stack Development (ReactJs for front-end).
