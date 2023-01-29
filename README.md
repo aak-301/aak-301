@@ -30,8 +30,6 @@ An enthusiastic fresher with high motivation. Currently persuing my B.Tech. in C
 
 ![](https://activity-graph.herokuapp.com/graph?username=aak-301&theme=react-dark&hide_border=true&area=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aak-301&langs_count=8)](https://github.com/aak-301/github-readme-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aak-301&label=Profile%20views&color=0e75b6&style=flat" alt="aak-301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aak-301" alt="aak-301" /></a> </p>
