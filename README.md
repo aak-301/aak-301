@@ -22,8 +22,8 @@ An enthusiastic fresher with high motivation. Currently persuing my B.Tech. in C
     - Using NASA's [Exoplanets-Data](https://exoplanetarchive.ipac.caltech.edu/docs/data.html) for exploration. The [KOI-table](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
 
 ## 🌱 I’m currently learning
-* NodeJs & ReactJs for full stack
-* Advance Flutter for optimization
+* Go Lang
+* Integrating GoLang with flutter
 * Improving DSA skills on [LeetCode](https://leetcode.com/Aakash_301/)
 
 ## Github Stats
