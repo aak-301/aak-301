@@ -1,7 +1,7 @@
 <h1 align="center" style="display: inline-block;">Hi 👋, I'm Aakash Shivanshu</h1>
 
 
-An enthusiastic fresher with high motivation. Currently persuing my B.Tech. in Computer Science and Engineering. Eager to learn new tech stacks. I am a SDE Intern at [Go Influencer](https://www.goinfluencer.io/). And currently working on [Flutter](https://flutter.dev/). My other interests aside from Flutter are Full Stack Development (ReactJs for front-end).
+An enthusiastic fresher with high motivation. Currently persuing my B.Tech. in Computer Science and Engineering. Eager to learn new tech stacks. And currently working on [Flutter](https://flutter.dev/). My other interests aside from Flutter are Full Stack Development (ReactJs for front-end).
 
 <table>
   <tr>
@@ -13,13 +13,14 @@ An enthusiastic fresher with high motivation. Currently persuing my B.Tech. in C
 
 ## 🧭 Timeline
 
-- SDE Intern at Go Influencer, [Go Influencer](https://www.goinfluencer.io/) (May 2022 - April 2022)
+- SDE Intern at Go Influencer, [Go Influencer](https://www.goinfluencer.io/) (May 2022 - Feb 2023)
 - Winter Intern at High Radius, [High Radius](https://www.highradius.com/) (January 2022 - April 2022)
 
 ## 🔭 I’m currently working on
 * Building a full stack application (NodeJs & React)
     - Using Sir Kepler's [Kepler-and-K2-Research](https://www.nasa.gov/mission_pages/kepler/launch/index.html)
     - Using NASA's [Exoplanets-Data](https://exoplanetarchive.ipac.caltech.edu/docs/data.html) for exploration. The [KOI-table](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
+    - Integrating NoSql database (Mongodb) for storing the data.
 
 ## 🌱 I’m currently learning
 * Go Lang
