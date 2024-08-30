@@ -13,16 +13,16 @@ An enthusiastic fresher with high motivation. I have completed my B.Tech. in Com
 
 ## 🧭 Timeline
 - Front-end Developer at Mad Machines, [Mad Machines](https://madmachines.io/)
-- React Native Intern at Encyclofoodia, [Encyclofoodia] (May2023 - Present)(https://www.linkedin.com/company/encyclofoodia/?originalSubdomain=in) ( Oct 2023 - Feb 2023)
+- React Native Intern at Encyclofoodia, [Encyclofoodia](https://www.linkedin.com/company/encyclofoodia/?originalSubdomain=in) ( Oct 2023 - Feb 2023)
 - Flutter Developer Intern at The Internet Folks, [The Internet Folks](https://theinternetfolks.com/) (May 2023 - July 2023)
 - SDE Intern at Go Influencer, [Go Influencer](https://www.goinfluencer.io/) (May 2022 - Feb 2023)
 - Winter Intern at High Radius, [High Radius](https://www.highradius.com/) (January 2022 - April 2022)
 
 ## 🔭 I’m currently working on
 * Building a full stack application (NodeJs & React)
+    - Learning Python for Django and Machine Learning
     - Integrating SQL and NoSql database (Mongodb) for storing the data.
-    - Using JWT Authentication.
-* Flutter Project for learninig new updates released this year.
+* Best practices for app development in mobile and web using react.js
 
 ## 🌱 I’m currently learning
 * Integrating Design Principles for a scaling a single React code with customization for multiple customers
