@@ -1,7 +1,7 @@
 <h1 align="center" style="display: inline-block;">Hi 👋, I'm Aakash Shivanshu</h1>
 
 
-An enthusiastic fresher with high motivation. I have completed my B.Tech. in Computer Science and Engineering. Eager to learn new tech stacks. And currently working on [Flutter](https://flutter.dev/). My other interests aside from Flutter are Full Stack Development (ReactJs for front-end).
+An enthusiastic fresher with high motivation. I have completed my B.Tech. in Computer Science and Engineering. Eager to learn new tech stacks. And currently working on [React.js](https://react.dev/) and [React Native](https://reactnative.dev/). My other interests aside from Flutter are Full Stack Development (ReactJs for front-end).
 
 <table>
   <tr>
@@ -12,7 +12,8 @@ An enthusiastic fresher with high motivation. I have completed my B.Tech. in Com
 </table>
 
 ## 🧭 Timeline
-
+- Front-end Developer at Mad Machines, [Mad Machines](https://madmachines.io/)
+- React Native Intern at Encyclofoodia, [Encyclofoodia] (May2023 - Present)(https://www.linkedin.com/company/encyclofoodia/?originalSubdomain=in) ( Oct 2023 - Feb 2023)
 - Flutter Developer Intern at The Internet Folks, [The Internet Folks](https://theinternetfolks.com/) (May 2023 - July 2023)
 - SDE Intern at Go Influencer, [Go Influencer](https://www.goinfluencer.io/) (May 2022 - Feb 2023)
 - Winter Intern at High Radius, [High Radius](https://www.highradius.com/) (January 2022 - April 2022)
@@ -24,7 +25,7 @@ An enthusiastic fresher with high motivation. I have completed my B.Tech. in Com
 * Flutter Project for learninig new updates released this year.
 
 ## 🌱 I’m currently learning
-* Integrating Node.Js with flutter
+* Integrating Design Principles for a scaling a single React code with customization for multiple customers
 * Improving DSA skills on [LeetCode](https://leetcode.com/Aakash_301/)
 
 ## 🔍 I’m currently looking for:
